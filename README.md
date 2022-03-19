@@ -1,6 +1,6 @@
-# Pewlett-Hackard-Analysis
+# Pewlett-Hackard Analysis
 ## Overview of the Analysis
-  As companies grow and proliferate, so do their employees age. Pewlett-Hackard is gearing itself up for an upcoming "silver tsunami" in which its older workforce will up and retire from the company--leaving the company with vacancies and potential new mentors for their mentorship program. We completed this analysis to let PH know that even though they are getting ready to experience a massive amount of retired workers--they can be well prepared in knowing which positions these retirees will leave vacant and which ones of them might become potentital new participants in their mentorship program. 
+  As companies grow and proliferate, so do their employees' age. Pewlett-Hackard is gearing itself up for an upcoming "silver tsunami" in which its older workforce will up and retire from the company--leaving the company with vacancies and potential new mentors for their mentorship program. This analysis was perfomed to let PH know that even though they are getting ready to experience a massive amount of retired workers--they can be prepared in knowing which positions these retirees will leave vacant and which ones of them might become potentital new participants in their mentorship program. 
 ## Results
   ### *Deliverable 1*
  <img width="172" alt="Screen Shot 2021-10-17 at 7 41 04 PM" src="https://user-images.githubusercontent.com/89168119/137649196-a5c2740d-65df-41ba-b0ff-a842bed8b82a.png"> 
